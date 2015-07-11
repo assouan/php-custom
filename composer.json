@@ -1,0 +1,15 @@
+{
+  "name": "assouan/php-custom",
+  "description": "common customized package",
+  "version": "1.0.0",
+  "type": "metapackage",
+  "keywords": [
+    "php",
+    "package",
+    "common",
+    "custom"
+  ],
+  "require": {
+    "assouan/php-common": "*"
+  }
+}
